@@ -12,3 +12,9 @@ The project Map:
 8. Desk Ball.jar (executable Jar)
 9. Traffic Light.jar (executable Jar)
 10. VirCreator.jar (executable Jar)
+
+
+Out of interest, I developed these using different IDEs:
+1. BlueJ
+2. JCreator
+3. Ecllipse
