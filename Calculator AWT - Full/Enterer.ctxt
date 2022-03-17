@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Enterer
+comment1.params=
+comment1.target=Enterer()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ destroy()
+comment4.params=
+comment4.target=void\ start()
+comment5.params=
+comment5.target=void\ stop()
+comment6.params=
+comment6.target=void\ init()
+comment7.params=evt
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=8

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Email</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref>JDK version 1.6.0_05</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>Email</run>
+		</runtime>
+	</runtimes>
+	<libraries>
+		<library_ref>mail</library_ref>
+		<library_ref>jactivation</library_ref>
+		<library_ref>jmf</library_ref>
+	</libraries>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>src\Credits.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Email.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Enterer.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\password.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\SendFileEmail.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Window.java</path>
+				<folder>src</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

@@ -1,0 +1,1 @@
+This simple demonstration shows how I manually stuffed various files to make an executabel jar file

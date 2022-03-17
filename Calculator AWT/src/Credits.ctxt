@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=void\ init()
+comment1.text=\r\n\ Called\ by\ the\ browser\ or\ applet\ viewer\ to\ inform\ this\ JApplet\ that\ it\r\n\ has\ been\ loaded\ into\ the\ system.\ It\ is\ always\ called\ before\ the\ first\ \r\n\ time\ that\ the\ start\ method\ is\ called.\r\n
+comment2.params=
+comment2.target=void\ destroy()
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=void\ stop()
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+comment5.text=\r\n\ Paint\ method\ for\ applet.\ \r\n\ \r\n\ @param\ \ g\ \ \ the\ Graphics\ object\ for\ this\ applet\r\n
+comment6.params=
+comment6.target=java.lang.String[][]\ getParameterInfo()
+comment6.text=\r\n\ Returns\ parameter\ information\ about\ this\ JApplet.\ \r\n\ Returns\ information\ about\ the\ parameters\ than\ are\ understood\ by\ this\ JApplet.\r\n\ An\ applet\ should\ override\ this\ method\ to\ return\ an\ array\ of\ Strings\ \r\n\ describing\ these\ parameters.\ \r\n\ Each\ element\ of\ the\ array\ should\ be\ a\ set\ of\ three\ Strings\ containing\ \r\n\ the\ name,\ the\ type,\ and\ a\ description.\r\n\r\n\ @return\ a\ String[]\ representation\ of\ parameter\ information\ about\ this\ JApplet\r\n
+numComments=7
